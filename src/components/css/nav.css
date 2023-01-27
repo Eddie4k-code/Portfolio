@@ -1,0 +1,19 @@
+#navigation {
+  
+}
+
+.nav-item {
+    color: white;
+    font-family: 'High Tower Text';
+}
+
+#navbarNav {
+    justify-content: center;
+}
+
+.nav-item:hover {
+    text-emphasis-color: inherit;
+    border-bottom-style:double;
+    border-bottom-color: red;
+}
+

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "pyTestAutomationFramework",
+    "category": "Test",
+    "description": "A Data Driven PyTest Automation Framework I made for practice using a demo site called XYZBank.",
+    "Language": "Python",
+    "Technologies": "PyTest, Selenium, Openpyxl",
+    "Url": "https://github.com/Eddie4k-code/pyTestAutomationFramework"
+  },
+  {
+    "name": "Java TestNG Automation Framework",
+    "description": "A Data Driven TestNG Automation Framework I made for practice using a demo site called XYZBank.",
+    "category": "Test",
+    "Language": "Java",
+    "Technologies": "Maven, TestNG, Selenium, Apache POI, ExtentReports, log4j",
+    "Url": "https:/"
+  },
+  {
+    "name": "Public Chat Room React Web Application",
+    "description": "A chat room where users can join and send messages.",
+    "category": "Web",
+    "Language": "JavaScript",
+    "Technologies": "React, SocketIO, TailwindCSS, Express, MongoDB",
+    "Url": "https://github.com/Eddie4k-code/public-chat-room-react"
+  },
+  {
+    "name": "Social Media Django Application",
+    "description": "A Django Web Application made for sharing posts with other users.",
+    "category": "Web",
+    "Language": "Python",
+    "Technologies": "Django, Bootstrap",
+    "Url": "https://github.com/Eddie4k-code/SocialMediaDjango"
+  }
+]

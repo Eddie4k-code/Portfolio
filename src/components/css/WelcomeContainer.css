@@ -1,0 +1,105 @@
+#homepaper {
+    height: auto;
+    float: none;
+    justify-content: center;
+    align-items: center;
+    filter: blur(5px);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+
+#hello {
+    float: none;
+    padding-right:20rem;
+}
+
+#pic-container {
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+
+
+/* Top left text */
+.top-left {
+    position: absolute;
+    top: 8px;
+    font-family: 'Nova Flat';
+    left: 16px;
+}
+
+
+@media (max-width: 100rem) {
+    .top-left {
+        font-size: 5vw;
+    }
+
+    .bottom-right {
+        font-size: 5vw;
+    }
+}
+
+
+/* Bottom right text */
+/* Bottom right text */
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    font-size: 5em;
+    right: 16px;
+}
+.bottom-right:hover {
+    color:red;
+    cursor:pointer;
+}
+
+/* Centered text */
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size-adjust: inherit;
+    font-size: 5rem;
+    transform: translate(-50%, -50%);
+    font-family: 'Nova Flat';
+    font-weight: bolder;
+}
+
+
+
+.typical {
+    color: darkred;
+}
+
+
+.top-left:hover {
+
+}
+
+@media only screen and (min-width: 200px) and (max-width: 767px) {
+    .centered {
+        font-size: 2em;
+    }
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    .centered {
+        font-size: 2rem;
+    }
+}
+
+
+
+
