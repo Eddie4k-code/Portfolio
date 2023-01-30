@@ -21,7 +21,8 @@
     "category": "Web",
     "Language": "JavaScript",
     "Technologies": "React, SocketIO, TailwindCSS, Express, MongoDB",
-    "Url": "https://github.com/Eddie4k-code/public-chat-room-react"
+    "Url": "https://github.com/Eddie4k-code/public-chat-room-react",
+    "imageUrl": "https://user-images.githubusercontent.com/98666468/215350813-e5527d6c-d8e1-48d9-a1d9-4e789de53e52.png"
   },
   {
     "name": "Social Media Django Application",
@@ -29,6 +30,28 @@
     "category": "Web",
     "Language": "Python",
     "Technologies": "Django, Bootstrap",
-    "Url": "https://github.com/Eddie4k-code/SocialMediaDjango"
+    "Url": "https://github.com/Eddie4k-code/SocialMediaDjango",
+    "imageUrl": "https://user-images.githubusercontent.com/98666468/167205364-217da703-8cf1-4eb4-ba48-21970c1a47ff.png"
+  },
+
+  {
+    "name": "React Translation Application",
+    "description": "React application that uses a translate API to translate user input into another language!",
+    "category": "Web",
+    "Language": "JavaScript",
+    "Technologies": "React, TailwindCSS",
+    "Url": "https://github.com/Eddie4k-code/react-translation-app",
+    "imageUrl": "https://user-images.githubusercontent.com/98666468/207746832-9bc6cf3b-0eeb-4a42-89dc-670682abcd58.png"
+  },
+
+  {
+    "name": "React Stock Application",
+    "description": "React app that allows users to add stocks to a watchlist and view charts",
+    "category": "Web",
+    "Language": "JavaScript",
+    "Technologies": "React, TailwindCSS, ApexCharts",
+    "Url": "https://github.com/Eddie4k-code/react-stock-app",
+    "imageUrl": "https://user-images.githubusercontent.com/98666468/215349862-f8f3961c-559f-4787-86c1-a50163124513.png"
   }
+
 ]

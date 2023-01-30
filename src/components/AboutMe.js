@@ -13,13 +13,23 @@ export const AboutMe = () => {
                 <div className="card-body bg-dark">
                     <h1 className="card-header border-light">About Me {<FcAbout />}  </h1>
 
-                    <p className="card-text"> I am a highly motivated individual who has a true passion for computer programming and innovation.
-                        I was first introduced to Programming in high school where I had taken a beginner class this is where it all started.
+                    <p className="card-text">
+                        Welcome to my software development portfolio! My name is Edward O'Connor and I am currently a student at the University at Buffalo, set to graduate in June 2023 with a Bachelor's in Business Administration and a minor in Management Information Systems
                     </p>
 
-                    <p>Since then I have learned new programming languages such as Java, JavaScript, and Python. I now spend my free time studying these languages and working on projects so that I can
-                        continue to keep learning and advancing in computer programming. 
+                    <br></br>
+
+                    <p>
+                        Throughout my time at my university, I have been fortunate enough to gain hands-on experience in working with an Agile Software Development Team through an internship. I have worked as an IT intern, where I gained experience in automation testing and working in a automation framework using Java, Selenium, and TestNG. 
                     </p>
+
+                    <br></br>
+
+                    <p>
+                        In addition to automation, I have a passion for creating websites. During my freetime, I have been building websites to showcase my skills and to experiment with new technologies.
+                    </p>
+                    <br></br>
+                    <p> I am excited to continue my journey in the software development industry and to learn from experienced professionals. I hope to bring my unique combination of business and technical knowledge to any team I work with in the future. Thank you for visiting my portfolio and please feel free to contact me for any opportunities or collaborations.</p>
 
                 </div>
 
