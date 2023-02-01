@@ -20,6 +20,9 @@ export const Projects = () => {
                                     <p class="card-caption"><b>Technologies: </b>{proj.Technologies}</p>
                                     {proj.imageUrl && <img class="card-img-top img-fluid" src={proj.imageUrl} alt="Project screenshot" />}
                                     <a href={proj.Url} class="btn btn-primary">Source Code</a>
+                                    <br></br>
+                                    <br></br>
+                                    {proj.isLive && <a href={proj.isLive} class="btn btn-primary">View Live</a>}
                                 </div>
                             )}
                         </div>

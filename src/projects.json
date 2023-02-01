@@ -31,7 +31,8 @@
     "Language": "Python",
     "Technologies": "Django, Bootstrap",
     "Url": "https://github.com/Eddie4k-code/SocialMediaDjango",
-    "imageUrl": "https://user-images.githubusercontent.com/98666468/167205364-217da703-8cf1-4eb4-ba48-21970c1a47ff.png"
+    "imageUrl": "https://user-images.githubusercontent.com/98666468/167205364-217da703-8cf1-4eb4-ba48-21970c1a47ff.png",
+    "isLive": "https://www.eddiebird.com/login/"
   },
 
   {
@@ -41,7 +42,8 @@
     "Language": "JavaScript",
     "Technologies": "React, TailwindCSS",
     "Url": "https://github.com/Eddie4k-code/react-translation-app",
-    "imageUrl": "https://user-images.githubusercontent.com/98666468/207746832-9bc6cf3b-0eeb-4a42-89dc-670682abcd58.png"
+    "imageUrl": "https://user-images.githubusercontent.com/98666468/207746832-9bc6cf3b-0eeb-4a42-89dc-670682abcd58.png",
+    "isLive": "https://react-translation-app.onrender.com/"
   },
 
   {

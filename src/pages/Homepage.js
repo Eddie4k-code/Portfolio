@@ -1,6 +1,6 @@
 import { AboutMe } from "../components/AboutMe";
 import { WelcomeContainer } from "../components/WelcomeContainer"
-import './css/homepage.css';
+
 
 export const Homepage = () => {
     return (
