@@ -51,7 +51,7 @@
 
   {
     "name": "React Public Bathroom Locator",
-    "description": "Shows a list of acessible public bathrooms based off of device location.",
+    "description": "Shows a list of accessible public bathrooms based off of device location.",
     "category": "Web",
     "Language": "JavaScript",
     "Technologies": "React, TailwindCSS",
