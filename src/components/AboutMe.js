@@ -42,7 +42,7 @@ export const AboutMe = () => {
                 <div className="card-body bg-dark">
                     <h1 className="card-header border-light">Resume {<FcBusinessman />}  </h1>
                     <div className="">
-                        <iframe className="embed-responsive-item" src='https://onedrive.live.com/embed?resid=782EBCDEC263330C%21264&amp;authkey=%21AF31scAQ7cloXX8&amp;em=2' width='100%' height='650px' frameborder='0'></iframe>
+                        <iframe className="embed-responsive-item" src='https://onedrive.live.com/embed?cid=782EBCDEC263330C&amp;resid=782ebcdec263330c%21266&amp;authkey=AMmwmopdAZrtl9I&amp;em=2' width='100%' height='650px' frameborder='0'></iframe>
                     </div>
                 </div>
 
