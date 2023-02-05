@@ -20,7 +20,13 @@ export const AboutMe = () => {
                     <br></br>
 
                     <p>
-                        Throughout my time at my university, I have been fortunate enough to gain hands-on experience in working with an Agile Software Development Team through an internship. I have worked as an IT intern, where I gained experience in automation testing and working in a automation framework using Java, Selenium, and TestNG. 
+                        As a student concentrating in Management Information Systems (MIS), I have gained a comprehensive understanding of various IT-related topics such as cloud computing, IT project management, systems analysis and design, and databases. These courses have equipped me with the knowledge and skills required to excel in the field of technology.
+                    </p>
+
+                    <br></br>
+
+                    <p>
+                        Additionally, while I pursue my Bachelor's, I have been fortunate enough to gain hands-on experience in working with an Agile Software Development Team through an internship. I have worked as an IT intern, where I gained experience in automation testing and working in a automation framework using Java, Selenium, and TestNG.
                     </p>
 
                     <br></br>
