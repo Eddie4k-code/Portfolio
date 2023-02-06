@@ -32,7 +32,7 @@ export const AboutMe = () => {
                     <br></br>
 
                     <p>
-                        In addition to automation, I have a passion for creating websites. During my freetime, I have been building websites to showcase my skills and to experiment with new technologies.
+                        In addition to automation, I have a passion for creating websites. During my free time, I have been building websites to showcase my skills and to experiment with new technologies.
                     </p>
                     <br></br>
                     <p> I am excited to continue my journey in the software development industry and to learn from experienced professionals. I hope to bring my unique combination of business and technical knowledge to any team I work with in the future. Thank you for visiting my portfolio and please feel free to contact me for any opportunities or collaborations.</p>
