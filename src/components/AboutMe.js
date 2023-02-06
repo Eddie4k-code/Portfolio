@@ -14,7 +14,7 @@ export const AboutMe = () => {
                     <h1 className="card-header border-light">About Me {<FcAbout />}  </h1>
 
                     <p className="card-text">
-                        Welcome to my software development portfolio! My name is Edward O'Connor and I am currently a student at the University at Buffalo, set to graduate in June 2023 with a Bachelor's in Business Administration and a minor in Management Information Systems.
+                        Welcome to my software development portfolio! My name is Edward O'Connor and I am currently a student at the University at Buffalo, set to graduate in June 2023 with a Bachelor's in Business Administration and a concentration in Management Information Systems (MIS).
                     </p>
 
                     <br></br>
