@@ -11,7 +11,7 @@
   {
     "name": "chromeDriverUpdaterWin32",
     "category": "Test",
-    "description": "Replaces existing chromedriver.exe with latest chromedriver.exe in specified path",
+    "description": "Replaces existing chromedriver.exe with latest chromedriver.exe in specified path.",
     "Language": "Python",
     "Technologies": "Selenium",
     "Url": "https://github.com/Eddie4k-code/chromeDriverUpdaterWin32"
