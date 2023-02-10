@@ -9,6 +9,15 @@
   },
 
   {
+    "name": "chromeDriverUpdaterWin32",
+    "category": "Test",
+    "description": "Replaces existing chromedriver.exe with latest chromedriver.exe in specified path",
+    "Language": "Python",
+    "Technologies": "Selenium",
+    "Url": "https://github.com/Eddie4k-code/chromeDriverUpdaterWin32"
+  },
+
+  {
     "name": "Public Chat Room React Web Application",
     "description": "A chat room where users can join and send messages.",
     "category": "Web",
