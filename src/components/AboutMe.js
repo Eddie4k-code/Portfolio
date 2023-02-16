@@ -1,6 +1,5 @@
 import { FcAbout } from "react-icons/fc";
 import { FcBusinessman } from "react-icons/fc"
-import Resume from '../Resume.pdf'
 
 
 export const AboutMe = () => {
@@ -53,7 +52,7 @@ export const AboutMe = () => {
                     <h1 className="card-header border-light">Resume {<FcBusinessman />}  </h1>
                     <div className="">
                         <iframe className="embed-responsive-item" src='https://onedrive.live.com/embed?cid=782EBCDEC263330C&amp;resid=782ebcdec263330c%21266&amp;authkey=AMmwmopdAZrtl9I&amp;em=2' width='100%' height='650px' frameborder='0'></iframe>
-                        <embed src={Resume} width="500" height="700" type='application/pdf'
+                        <embed src='../Resume.pdf' width="500" height="700" type='application/pdf'
                             toolbar="true"
                             scrollbar="true"
                             zoom="75%">
