@@ -9,6 +9,15 @@
   },
 
   {
+    "name": "Data Driven Java Test Automation Framework",
+    "category": "Test",
+    "description": "A Data Driven Java Automation Framework I made for practice using a demo site called XYZBank, using selenium and TestNG.",
+    "Language": "Java",
+    "Technologies": "Maven, Selenium, TestNG, ExtentReports",
+    "Url": "https://github.com/Eddie4k-code/SeleniumTestAutomationFramework"
+  },
+
+  {
     "name": "chromeDriverUpdaterWin32",
     "category": "Test",
     "description": "Replaces existing chromedriver.exe with specified chromedriver.exe in specified path.",
