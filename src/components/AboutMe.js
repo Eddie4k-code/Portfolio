@@ -1,6 +1,6 @@
 import { FcAbout } from "react-icons/fc";
 import { FcBusinessman } from "react-icons/fc"
-import Resume from '../Resume.'
+import Resume from './Resume.'
 
 
 export const AboutMe = () => {
