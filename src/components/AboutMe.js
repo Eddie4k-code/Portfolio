@@ -51,12 +51,7 @@ export const AboutMe = () => {
                 <div className="card-body bg-dark">
                     <h1 className="card-header border-light">Resume {<FcBusinessman />}  </h1>
                     <div className="">
-                        <iframe className="embed-responsive-item" src='https://onedrive.live.com/embed?cid=782EBCDEC263330C&amp;resid=782ebcdec263330c%21266&amp;authkey=AMmwmopdAZrtl9I&amp;em=2' width='100%' height='650px' frameborder='0'></iframe>
-                        <embed src='../Resume.pdf' width="500" height="700" type='application/pdf'
-                            toolbar="true"
-                            scrollbar="true"
-                            zoom="75%">
-                        </embed>
+                        <iframe className="embed-responsive-item" src='https://onedrive.live.com/embed?cid=782EBCDEC263330C&resid=782EBCDEC263330C%21269&authkey=AIn-l0_Tnj9MgiU&em=2' width='100%' height='650px' frameborder='0'></iframe>
                     </div>
                 </div>
 
