@@ -18,6 +18,16 @@
   },
 
   {
+    "name": "Rest Assured API Testing Framework",
+    "category": "Test",
+    "description": "A practice Java-based api testing framework that tests a demo pet store API.",
+    "Language": "Java",
+    "Technologies": "Maven, RestAssured, TestNG, ExtentReports",
+    "Url": "https://github.com/Eddie4k-code/PetStoreAPITestingFramework"
+  },
+
+
+  {
     "name": "chromeDriverUpdaterWin32",
     "category": "Test",
     "description": "Replaces existing chromedriver.exe with specified chromedriver.exe in specified path.",
