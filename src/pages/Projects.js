@@ -4,7 +4,7 @@ import projects  from '../projects.json';
 export const Projects = () => {
 
     return (
-        <div className="container">
+        <div className="container pt-3">
             <div className="row">
                 <div className="col-md-6">
                     <div className="card bg-dark text-white mb-4">
