@@ -41,7 +41,7 @@
     "description": "A chat room where users can join and send messages.",
     "category": "Web",
     "Language": "JavaScript",
-    "Technologies": "React, SocketIO, TailwindCSS, Express, MongoDB",
+    "Technologies": "React, SocketIO, TailwindCSS, Express, MongoDB, Axios",
     "Url": "https://github.com/Eddie4k-code/public-chat-room-react",
     "imageUrl": "https://user-images.githubusercontent.com/98666468/215350813-e5527d6c-d8e1-48d9-a1d9-4e789de53e52.png"
   },
@@ -61,7 +61,7 @@
     "description": "React application that uses a translate API to translate user input into another language!",
     "category": "Web",
     "Language": "JavaScript",
-    "Technologies": "React, TailwindCSS",
+    "Technologies": "React, TailwindCSS, Axios",
     "Url": "https://github.com/Eddie4k-code/react-translation-app",
     "imageUrl": "https://user-images.githubusercontent.com/98666468/207746832-9bc6cf3b-0eeb-4a42-89dc-670682abcd58.png",
     "isLive": "https://react-translation-app.onrender.com/"
@@ -72,9 +72,10 @@
     "description": "React app that allows users to add stocks to a watchlist and view charts",
     "category": "Web",
     "Language": "JavaScript",
-    "Technologies": "React, TailwindCSS, ApexCharts",
+    "Technologies": "React, TailwindCSS, ApexCharts, Axios",
     "Url": "https://github.com/Eddie4k-code/react-stock-app",
-    "imageUrl": "https://user-images.githubusercontent.com/98666468/215349862-f8f3961c-559f-4787-86c1-a50163124513.png"
+    "imageUrl": "https://user-images.githubusercontent.com/98666468/215349862-f8f3961c-559f-4787-86c1-a50163124513.png",
+    "isLive": "https://eddiestocklookup.onrender.com/"
   },
 
   {
